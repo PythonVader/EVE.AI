@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EVE.AI</string>
+    <string name="generic_error">We Have Encountered An Error</string>
 </resources>
